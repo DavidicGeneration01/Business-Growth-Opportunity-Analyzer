@@ -18,7 +18,7 @@ Python project for generating fictional company data, cleaning and validating it
 - Jupyter Notebook
 - Pandas
 - Numpy
-- Matplotlib
+- Matplotlib & Seaborn
 - Streamlit
 - docker
 
