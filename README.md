@@ -4,11 +4,11 @@ Python project for generating fictional company data, cleaning and validating it
 
 ## Overview
 
-- Generates 5,000 realistic fictional companies.
+- 5,000 companies dataset.
 - Cleans duplicates, missing values, numeric ranges, text fields, and IQR outliers.
 - Calculates BGPI, risk score, repeat customer rate, and growth category.
 - Exports descriptive statistics, industry summaries, company summaries, rankings, and correlation matrices.
-- Generates 12 PNG charts with Matplotlib and Seaborn.
+- 12 PNG charts with Matplotlib and Seaborn.
 - Produces CSV, Excel, and PDF reports.
 - Includes a multi-page Streamlit dashboard with company, industry, growth, correlation, reporting, and download views.
 
