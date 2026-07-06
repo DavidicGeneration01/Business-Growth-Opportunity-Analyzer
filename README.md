@@ -23,13 +23,13 @@ pip install -r requirements.txt
 ## Run the Complete Pipeline
 
 ```bash
-python -m src.main
+py -m src.main
 ```
 
 ## Run the Dashboard
 
 ```bash
-streamlit run src/dashboard.py
+py -m streamlit run src/dashboard.py
 ```
 
 ## Run Tests

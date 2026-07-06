@@ -1,0 +1,22 @@
+2026-07-05 09:29:28 | INFO | Main | Starting Business Growth Opportunity Analyzer workflow.
+2026-07-05 09:29:29 | INFO | DatasetGenerator | Generated 5000 fictional company records.
+2026-07-05 09:29:29 | INFO | DatasetGenerator | Saved raw dataset to C:\Users\David-Alade\Desktop\Data project\data\raw\businesses_raw.csv.
+2026-07-05 09:29:29 | INFO | DataLoader | Loaded dataset with shape (5000, 17) from C:\Users\David-Alade\Desktop\Data project\data\raw\businesses_raw.csv.
+2026-07-05 09:29:29 | INFO | DataCleaner | Removed 0 duplicate company rows.
+2026-07-05 09:29:29 | INFO | DataCleaner | Cleaned dataset shape: (5000, 17).
+2026-07-05 09:29:29 | INFO | DataCleaner | Saved cleaned dataset to C:\Users\David-Alade\Desktop\Data project\data\processed\businesses_clean.csv.
+2026-07-05 09:29:29 | INFO | BGPICalculator | Calculated BGPI for 5000 companies.
+2026-07-05 09:29:30 | INFO | BGPICalculator | Saved BGPI results to C:\Users\David-Alade\Desktop\Data project\data\processed\bgpi_scores.csv.
+2026-07-05 09:29:30 | INFO | BusinessAnalyzer | Exported statistical analysis outputs.
+2026-07-05 09:29:43 | INFO | BusinessVisualizer | Generated 12 charts.
+2026-07-06 13:42:14 | INFO | Main | Starting Business Growth Opportunity Analyzer workflow.
+2026-07-06 13:42:15 | INFO | DatasetGenerator | Generated 5000 fictional company records.
+2026-07-06 13:42:15 | INFO | DatasetGenerator | Saved raw dataset to C:\Users\David-Alade\Desktop\Data project\data\raw\businesses_raw.csv.
+2026-07-06 13:42:15 | INFO | DataLoader | Loaded dataset with shape (5000, 17) from C:\Users\David-Alade\Desktop\Data project\data\raw\businesses_raw.csv.
+2026-07-06 13:42:15 | INFO | DataCleaner | Removed 0 duplicate company rows.
+2026-07-06 13:42:15 | INFO | DataCleaner | Cleaned dataset shape: (5000, 17).
+2026-07-06 13:42:16 | INFO | DataCleaner | Saved cleaned dataset to C:\Users\David-Alade\Desktop\Data project\data\processed\businesses_clean.csv.
+2026-07-06 13:42:16 | INFO | BGPICalculator | Calculated BGPI for 5000 companies.
+2026-07-06 13:42:16 | INFO | BGPICalculator | Saved BGPI results to C:\Users\David-Alade\Desktop\Data project\data\processed\bgpi_scores.csv.
+2026-07-06 13:42:16 | INFO | BusinessAnalyzer | Exported statistical analysis outputs.
+2026-07-06 13:42:27 | INFO | BusinessVisualizer | Generated 12 charts.

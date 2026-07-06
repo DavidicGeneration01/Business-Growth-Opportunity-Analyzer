@@ -1,0 +1,11 @@
+Industry,Companies,AverageBGPI,AverageRevenue,AverageProfitMargin,AverageCustomerSatisfaction,AverageInnovation,AverageRisk
+Technology,521,70.64,500082.18,31.81,7.87,7.97,29.36
+Finance,492,58.96,508341.04,35.54,7.37,6.73,41.04
+Healthcare,543,57.83,412471.24,27.8,8.07,6.51,42.17
+Real Estate,513,50.73,453947.58,33.08,7.23,5.77,49.27
+Education,488,48.87,188238.36,25.97,7.59,6.27,51.13
+Energy,504,47.32,592117.88,29.76,7.0,6.1,52.68
+Manufacturing,434,41.94,565100.73,24.3,6.81,5.97,58.06
+Retail,528,38.7,323162.1,21.95,6.97,5.54,61.3
+Logistics,480,38.62,387358.22,20.95,6.8,5.7,61.38
+Hospitality,497,32.18,204722.36,18.28,7.24,5.16,67.82
