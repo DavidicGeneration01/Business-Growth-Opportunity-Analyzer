@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+logs/
+reports/charts/*.png
+data/raw/*.csv
+data/processed/*.csv
+data/exports/*.csv
+reports/*.csv
+reports/*.xlsx
+reports/*.pdf
+reports/*.txt
+.DS_Store
