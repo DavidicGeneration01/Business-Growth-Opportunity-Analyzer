@@ -2,7 +2,7 @@
 
 Python project for generating fictional company data, cleaning and validating it, calculating the Business Growth Potential Index (BGPI), producing statistical analysis, charts, reports, and a Streamlit dashboard.
 
-## Features
+## Overview
 
 - Generates 5,000 realistic fictional companies.
 - Cleans duplicates, missing values, numeric ranges, text fields, and IQR outliers.
